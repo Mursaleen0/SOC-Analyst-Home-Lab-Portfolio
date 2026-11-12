@@ -1,4 +1,4 @@
-I can't see the exact slide from his video, so this is the standard Network+ N10-009 common ports list, which is what that video covers. Check it against the video as you watch.
+
 
 | Port | Protocol | Service |
 |---|---|---|
@@ -31,6 +31,3 @@ I can't see the exact slide from his video, so this is the standard Network+ N10
 | 3389 | TCP/UDP | RDP |
 | 5060/5061 | TCP/UDP | SIP / SIP-TLS |
 
-**SOC ports to remember for your lab:** 22, 53, 80, 443, 445, 3389, plus Wazuh's own ports, **1514** (agent to manager) and **1515** (agent enrollment).
-
-Paste this into your GitHub cheat sheet. If you spot a port in the video that isn't here, add it.
