@@ -1,6 +1,4 @@
-# SOC Analyst Home Lab Portfolio
-
-Hands-on SOC analyst lab projects built in VirtualBox, with attacks run only against my own isolated lab.
+Hands-on SOC Analyst portfolio featuring a Purple Team home lab built with Kali Linux, Ubuntu Server, Splunk Enterprise and Docker. Practicing SIEM log ingestion, security monitoring, attack simulation and threat detection.
 
 ## Projects
 
